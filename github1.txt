@@ -4,3 +4,4 @@ slove修改文件内容准备提交 edit insert slove
 slove修改文件内容准备提交 edit insert is master
 slove第二次修改文件
 slove is fork master
+master update success
