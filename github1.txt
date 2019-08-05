@@ -2,3 +2,4 @@
 另一个账户测试push
 slove修改文件内容准备提交 edit insert is master
 slove第二次修改文件
+master update success
